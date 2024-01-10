@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "medicalcostpersonaldatasets"
+version = "0.1.0"
+description = "Medical Cost Personal Dリポジトリ"
+authors = ["HirotoOsaka <ipocchi129@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
